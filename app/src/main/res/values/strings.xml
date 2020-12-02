@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Controles Android Kotlin</string>
+
+
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+        <item>Javascript</item>
+        <item>Jquery</item>
+    </string-array>
+
+
+</resources>
